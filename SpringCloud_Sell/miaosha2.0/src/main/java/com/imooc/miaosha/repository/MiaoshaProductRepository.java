@@ -18,8 +18,8 @@ public interface MiaoshaProductRepository extends JpaRepository<MiaoshaProduct, 
 
     @Transactional
     @Modifying
-    @Query(value = "update miaosha_product p set p.miaosha_product_stock = ?1 where p.miaosha_product_id = ?2", nativeQuery = true)
-    int reduceProductStock(int stock, String productId);
+    @Query(value = "update miaosha_product p set p.miaosha_product_stock = p.miaosha_product_stock - 1 where p.miaosha_product_id = ?1 and p.miaosha_product_stock > 0", nativeQuery = true)
+    int reduceProductStock(String productId);
 
 
 }

@@ -70,21 +70,4 @@ public class MiaoshaProductController {
         }
     }
 
-    //测试list接口
-    @RequestMapping(value = "/list_test", method = RequestMethod.GET)
-    public ResultVO listTest(){
-        //UserUtil.checkSession(request);
-        List<MiaoshaProduct> miaoshaProductList = miaoshaProductService.getMiaoshaProductList();
-        List<MiaoshaProductDTO> miaoshaProductDTOList = new ArrayList<>();
-        for(MiaoshaProduct miaoshaProduct: miaoshaProductList){
-            if(miaoshaProduct.getMiaoshaProductStatus() == Const.ON_SALE) {//只取在售秒杀商品
-                MiaoshaProductDTO miaoshaProductDTO = new MiaoshaProductDTO();
-                BeanUtils.copyProperties(miaoshaProduct, miaoshaProductDTO);
-                miaoshaProductDTOList.add(miaoshaProductDTO);
-            }
-        }
-        //return ResultVOUtil.success("查询秒杀商品列表成功", miaoshaProductDTOList);
-        return ResultVO.success(CodeMsgVO.SUCCESS, miaoshaProductDTOList);
-    }
-
 }
