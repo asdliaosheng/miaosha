@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Class-Path: jul-to-slf4j-1.7.25.jar netflix-eventbus-0.3.0.jar stringt
+ emplate-3.2.1.jar hibernate-validator-5.4.1.Final.jar rxnetty-context
+ s-0.4.9.jar spring-boot-starter-aop-2.0.0.M3.jar spring-cloud-starter
+ -netflix-ribbon-2.0.0.M2.jar javax.inject-1.jar spring-jcl-5.0.0.RC3.
+ jar jsr311-api-1.1.1.jar guice-4.1.0.jar hibernate-core-5.2.10.Final.
+ jar rxnetty-servo-0.4.9.jar HdrHistogram-2.1.9.jar jackson-annotation
+ s-2.9.0.pr4.jar fastjson-1.2.38.jar tomcat-embed-core-8.5.16.jar jedi
+ s-2.9.0.jar amqp-client-4.2.0.jar spring-retry-1.2.1.RELEASE.jar bcpk
+ ix-jdk15on-1.56.jar spring-boot-starter-tomcat-2.0.0.M3.jar spring-da
+ ta-commons-2.0.0.RC2.jar aspectjweaver-1.8.10.jar spring-aspects-5.0.
+ 0.RC3.jar spring-boot-starter-data-jpa-2.0.0.M3.jar jettison-1.3.7.ja
+ r eureka-client-1.7.0.jar jersey-apache-client4-1.19.1.jar commons-co
+ nfiguration-1.8.jar ribbon-httpclient-2.2.2.jar netflix-statistics-0.
+ 1.1.jar httpcore-4.4.6.jar rxnetty-0.4.9.jar antlr-2.7.7.jar logback-
+ classic-1.2.3.jar spring-cloud-commons-2.0.0.M2.jar classmate-1.3.3.j
+ ar tomcat-embed-el-8.5.16.jar jackson-module-parameter-names-2.9.0.pr
+ 4.jar spring-tx-5.0.0.RC3.jar netty-transport-native-unix-common-4.1.
+ 13.Final.jar dom4j-1.6.1.jar spring-boot-starter-json-2.0.0.M3.jar sp
+ ring-boot-starter-jdbc-2.0.0.M3.jar tomcat-embed-websocket-8.5.16.jar
+  spring-web-5.0.0.RC3.jar netty-buffer-4.1.13.Final.jar javassist-3.2
+ 1.0-GA.jar http-client-1.2.0.RELEASE.jar commons-jxpath-1.3.jar ribbo
+ n-transport-2.2.2.jar commons-collections-3.2.2.jar commons-lang3-3.6
+ .jar netty-codec-http-4.1.13.Final.jar stax2-api-3.1.4.jar spring-con
+ text-5.0.0.RC3.jar commons-lang-2.6.jar hystrix-core-1.5.12.jar sprin
+ g-boot-starter-amqp-2.0.0.M3.jar xmlpull-1.1.3.1.jar spring-data-jpa-
+ 2.0.0.RC2.jar ribbon-core-2.2.2.jar archaius-core-0.7.5.jar hibernate
+ -commons-annotations-5.0.1.Final.jar HikariCP-2.6.3.jar commons-loggi
+ ng-1.1.1.jar rxjava-1.3.0.jar jackson-datatype-jsr310-2.9.0.pr4.jar s
+ ervo-internal-0.10.1.jar jersey-client-1.19.1.jar mysql-connector-jav
+ a-5.1.46.jar logback-core-1.2.3.jar eureka-core-1.7.0.jar spring-boot
+ -autoconfigure-2.0.0.M3.jar hibernate-jpa-2.1-api-1.0.0.Final.jar spr
+ ing-security-rsa-1.0.5.RELEASE.jar httpclient-4.5.3.jar aopalliance-1
+ .0.jar stax-api-1.0-2.jar spring-amqp-2.0.0.M5.jar lombok-1.16.18.jar
+  stax-api-1.0.1.jar jackson-databind-2.9.0.pr4.jar woodstox-core-asl-
+ 4.4.1.jar joda-time-2.9.9.jar spring-webmvc-5.0.0.RC3.jar jackson-cor
+ e-2.9.0.pr4.jar bcprov-jdk15on-1.56.jar xstream-1.4.9.jar druid-1.0.5
+ .jar netty-transport-native-epoll-4.1.13.Final.jar spring-cloud-start
+ er-netflix-archaius-2.0.0.M2.jar spring-messaging-5.0.0.RC3.jar netty
+ -transport-4.1.13.Final.jar javax.transaction-api-1.2.jar jandex-2.0.
+ 3.Final.jar spring-cloud-netflix-eureka-client-2.0.0.M2.jar netty-com
+ mon-4.1.13.Final.jar ribbon-eureka-2.2.2.jar spring-aop-5.0.0.RC3.jar
+  jackson-datatype-jdk8-2.9.0.pr4.jar spring-jdbc-5.0.0.RC3.jar netfli
+ x-commons-util-0.1.1.jar jersey-core-1.19.1.jar validation-api-1.1.0.
+ Final.jar commons-codec-1.10.jar log4j-over-slf4j-1.7.25.jar commons-
+ pool2-2.4.2.jar snakeyaml-1.18.jar netflix-infix-0.3.0.jar spring-cor
+ e-5.0.0.RC3.jar spring-rabbit-2.0.0.M5.jar servo-core-0.10.1.jar slf4
+ j-api-1.7.25.jar xpp3_min-1.1.4c.jar spring-cloud-netflix-core-2.0.0.
+ M2.jar jboss-logging-3.3.1.Final.jar spring-boot-starter-logging-2.0.
+ 0.M3.jar spring-security-crypto-5.0.0.M3.jar commons-math-2.2.jar spr
+ ing-boot-starter-validation-2.0.0.M3.jar spring-expression-5.0.0.RC3.
+ jar netty-codec-4.1.13.Final.jar ribbon-2.2.2.jar jackson-module-kotl
+ in-2.9.0.pr4.jar spring-beans-5.0.0.RC3.jar spring-boot-starter-web-2
+ .0.0.M3.jar gson-2.8.1.jar spring-orm-5.0.0.RC3.jar netty-resolver-4.
+ 1.13.Final.jar spring-cloud-context-2.0.0.M2.jar spring-cloud-starter
+ -2.0.0.M2.jar spring-boot-2.0.0.M3.jar ribbon-loadbalancer-2.2.2.jar 
+ spring-cloud-starter-netflix-eureka-client-2.0.0.M2.jar guava-18.0.ja
+ r spring-boot-starter-2.0.0.M3.jar antlr-runtime-3.4.jar
+Main-Class: com.imooc.miaosha.MiaoshaApplication
+

@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Class-Path: javax.transaction-api-1.2.jar spring-aop-5.0.0.RC3.jar spr
+ ing-boot-starter-web-2.0.0.M3.jar animal-sniffer-annotation-1.0.jar n
+ etty-resolver-4.1.13.Final.jar rxnetty-contexts-0.4.9.jar tomcat-embe
+ d-core-8.5.16.jar logback-core-1.2.3.jar spring-data-jpa-2.0.0.RC2.ja
+ r javax.inject-1.jar spring-orm-5.0.0.RC3.jar ribbon-transport-2.2.2.
+ jar commons-logging-1.1.1.jar bcpkix-jdk15on-1.56.jar woodstox-core-a
+ sl-4.4.1.jar jsr311-api-1.1.1.jar antlr-2.7.7.jar netflix-infix-0.3.0
+ .jar spring-cloud-starter-archaius-2.0.0.M2.jar slf4j-api-1.7.25.jar 
+ spring-cloud-commons-2.0.0.M2.jar commons-pool2-2.4.2.jar fastjson-1.
+ 2.38.jar hystrix-core-1.5.12.jar spring-boot-starter-jdbc-2.0.0.M3.ja
+ r HikariCP-2.6.3.jar jersey-apache-client4-1.19.1.jar spring-jdbc-5.0
+ .0.RC3.jar servo-core-0.10.1.jar netflix-statistics-0.1.1.jar hiberna
+ te-validator-5.4.1.Final.jar spring-security-rsa-1.0.5.RELEASE.jar co
+ mmons-math-2.2.jar netty-buffer-4.1.13.Final.jar spring-boot-2.0.0.M3
+ .jar dom4j-1.6.1.jar xpp3_min-1.1.4c.jar spring-cloud-netflix-eureka-
+ client-2.0.0.M2.jar commons-lang-2.6.jar spring-expression-5.0.0.RC3.
+ jar xstream-1.4.9.jar httpcore-4.4.6.jar rxnetty-0.4.9.jar spring-jcl
+ -5.0.0.RC3.jar spring-cloud-starter-2.0.0.M2.jar jackson-module-param
+ eter-names-2.9.0.pr4.jar spring-cloud-netflix-core-2.0.0.M2.jar sprin
+ g-boot-autoconfigure-2.0.0.M3.jar spring-cloud-starter-ribbon-2.0.0.M
+ 2.jar ribbon-eureka-2.2.2.jar commons-codec-1.10.jar ribbon-2.2.2.jar
+  httpclient-4.5.3.jar tomcat-embed-websocket-8.5.16.jar spring-webmvc
+ -5.0.0.RC3.jar ribbon-httpclient-2.2.2.jar HdrHistogram-2.1.9.jar net
+ ty-common-4.1.13.Final.jar spring-cloud-starter-netflix-ribbon-2.0.0.
+ M2.jar mysql-connector-java-5.1.46.jar netty-codec-4.1.13.Final.jar n
+ etflix-eventbus-0.3.0.jar jersey-client-1.19.1.jar netflix-commons-ut
+ il-0.1.1.jar archaius-core-0.7.5.jar netty-codec-http-4.1.13.Final.ja
+ r guice-4.1.0.jar snakeyaml-1.18.jar logback-classic-1.2.3.jar log4j-
+ over-slf4j-1.7.25.jar aspectjweaver-1.8.10.jar feign-hystrix-9.5.0.ja
+ r hibernate-jpa-2.1-api-1.0.0.Final.jar bcprov-jdk15on-1.56.jar servo
+ -internal-0.10.1.jar netty-transport-native-epoll-4.1.13.Final.jar ne
+ tty-transport-4.1.13.Final.jar spring-cloud-starter-feign-1.3.4.RELEA
+ SE.jar eureka-core-1.7.0.jar jackson-datatype-jsr310-2.9.0.pr4.jar je
+ ttison-1.3.7.jar rxjava-1.3.0.jar jedis-2.9.0.jar tomcat-embed-el-8.5
+ .16.jar aopalliance-1.0.jar netty-transport-native-unix-common-4.1.13
+ .Final.jar stax-api-1.0.1.jar javassist-3.21.0-GA.jar gson-2.8.1.jar 
+ antlr-runtime-3.4.jar jersey-core-1.19.1.jar commons-collections-3.2.
+ 2.jar spring-boot-starter-logging-2.0.0.M3.jar ribbon-core-2.2.2.jar 
+ spring-context-5.0.0.RC3.jar jul-to-slf4j-1.7.25.jar spring-boot-star
+ ter-data-jpa-2.0.0.M3.jar spring-cloud-starter-netflix-archaius-2.0.0
+ .M2.jar commons-jxpath-1.3.jar spring-boot-starter-json-2.0.0.M3.jar 
+ jackson-datatype-jdk8-2.9.0.pr4.jar jackson-module-kotlin-2.9.0.pr4.j
+ ar spring-security-crypto-5.0.0.M3.jar hibernate-core-5.2.10.Final.ja
+ r ribbon-loadbalancer-2.2.2.jar spring-data-commons-2.0.0.RC2.jar jod
+ a-time-2.9.9.jar hibernate-commons-annotations-5.0.1.Final.jar spring
+ -beans-5.0.0.RC3.jar spring-cloud-context-2.0.0.M2.jar spring-boot-st
+ arter-2.0.0.M3.jar guava-18.0.jar eureka-client-1.7.0.jar spring-boot
+ -starter-aop-2.0.0.M3.jar commons-lang3-3.6.jar lombok-1.16.18.jar sp
+ ring-cloud-starter-netflix-eureka-client-2.0.0.M2.jar xmlpull-1.1.3.1
+ .jar jackson-core-2.9.0.pr4.jar spring-core-5.0.0.RC3.jar commons-con
+ figuration-1.8.jar spring-tx-5.0.0.RC3.jar jandex-2.0.3.Final.jar fei
+ gn-core-9.5.0.jar spring-web-5.0.0.RC3.jar stax2-api-3.1.4.jar jackso
+ n-databind-2.9.0.pr4.jar stax-api-1.0-2.jar stringtemplate-3.2.1.jar 
+ feign-slf4j-9.5.0.jar spring-boot-starter-tomcat-2.0.0.M3.jar validat
+ ion-api-1.1.0.Final.jar rxnetty-servo-0.4.9.jar spring-aspects-5.0.0.
+ RC3.jar classmate-1.3.3.jar jboss-logging-3.3.1.Final.jar jackson-ann
+ otations-2.9.0.pr4.jar
+Main-Class: com.imooc.order.OrderApplication
+
